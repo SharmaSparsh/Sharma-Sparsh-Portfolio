@@ -10,7 +10,8 @@ About: A brief overview of my journey as a tech enthusiast, with details about m
 Services: A description of the services I offer, including Web Development, Java Development, and Database Management.
 Projects: A showcase of my latest projects, demonstrating my skills in various areas of development.
 Contact: A contact form where you can reach out to me directly.
-💼 Featured Projects
+
+# 💼 Featured Projects
 # 1. Forest Fire Monitoring
 Developed a cloud-based system for real-time monitoring of forest fires and alerting the fire department using IoT sensors.
 
