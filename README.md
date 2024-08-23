@@ -2,7 +2,7 @@
 Welcome to my personal portfolio! This project showcases my skills, experiences, and projects as I pursue my B.Tech in Computer Science & Engineering. I'm passionate about web development, Java, and database management, and this portfolio highlights my work and accomplishments in these areas.
 
 🚀 Live Demo
-You can view the live version of my portfolio here.
+You can view the live version of my portfolio here :- https://sharma-sparsh-portfolio.netlify.app/.
 
 📂 Project Structure
 Home: Introduction to who I am, including my academic background and areas of expertise.
